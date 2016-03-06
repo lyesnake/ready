@@ -1,0 +1,292 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+body{
+	font: 12px/1.5 "microsoft yahei",simsun;
+	color: #666666;
+	background: #fff;
+	
+	
+}
+a{
+	outline: none;
+}
+
+a:link,a:hover{
+	text-decoration: none;
+	color: #666666;
+}
+
+a:hover{
+	text-decoration: none;
+}
+
+.clear{
+	clear: both;
+}
+ul{
+	list-style: none;
+}
+
+h1,h2,h3,h4,h5,h6{
+	font-size: 100%;
+	font-weight: normal;
+}
+
+
+/*Home_page开始*/
+
+/*头部开始*/
+.Home_page{
+	background-color: rgb(242,242,242);
+}
+.head{
+	
+	height:50px ;
+	
+	/*margin-top: 20px;*/
+	padding-top: 20px;
+	margin-right: 20px;
+	margin-left: 20px;
+}
+
+ .nav  li{
+	float: left;
+	margin: 0 12px;
+	font: "微软雅黑";
+	font-size: 20px;
+}
+
+
+.nav{
+	/*display: inline;*/
+	position: relative;
+	float: right;
+	height: 40px;
+	line-height: 40px;
+}
+
+.logo{
+	float: left;
+	height: 40px;
+	line-height: 40px;
+	
+}
+
+
+/*头部结束*/
+
+
+/*name开始*/
+
+   .name{
+   	margin-top: 80px;
+   }
+   .name_a{
+   	font: "微软雅黑";
+   	font-size: 60px;
+   	text-align: center;
+   }
+   .name_b{
+   	font: "微软雅黑";
+   	font-size: 60px;
+   	text-align: center;
+   	padding-left: 150px;
+   }
+   
+   .aboutname{
+   	text-align: center;
+   	font-size: 16px;
+   	padding-top: 80px;
+   	padding-bottom: 150px;
+   }
+/*name结束*/
+
+/*Home_page结束*/
+
+/*team开始*/
+   .team h1{
+   	     font-size: 40px;
+   	     text-align: center;
+   	     padding-top: 40px;
+   }
+   
+   .team h2{
+   	font-size: 22px;
+   	text-align: center;
+   }
+   
+   .projectlogo {
+   	width: 100%;
+   	padding-top: 30px;
+   }
+   
+   .projectlogo ul{
+   	  width: 1000px;
+   	  margin: auto;
+   	  overflow: hidden;
+   }
+   
+   .projectlogo ul li{
+   	display: inline;
+   /*	float: left;*/
+   	margin: 0 120px;
+   	text-align: center;
+   }
+   
+   .prjectname{
+   	padding-top: 30px;
+   	width: 100%;
+   }
+   
+   .prjectname ul{
+   	width: 1000px;
+   	margin: auto;
+   	overflow: hidden;
+   }
+   
+   .prjectname ul li{
+   	font-size: 20px;
+   	display: inline;
+   	margin: 0 130px;
+   	text-align: center;
+   }
+   
+   
+   .aboutprojiect{
+   	  padding-top: 40px;
+   	
+   }
+   
+   
+   .aboutprojiect ul{
+   	   width: 1000px;
+   	   margin: auto;
+       overflow: hidden;
+   }
+   .aboutprojiect li{
+   	   
+   	   width: 90px;
+   	   float: left;
+   	   margin: 0 120px;
+   }
+   
+   .more{
+    
+   	margin: 80px auto  80px  auto;
+   	width: 200px;
+   	height: 50px;
+   	border: 1px solid #666666;
+   	border-radius: 30px;
+   	font-size: 16px;
+   	line-height: 50px;
+   	text-align: center;
+   }
+   
+   
+/*team结束*/
+
+
+/*member开始*/
+   .member{
+   	background: rgb(242,242,242);
+   }
+   .member h1{
+   	     font-size: 40px;
+   	     text-align: center;
+   	     padding-top: 40px;
+   }
+   
+   .member h2{
+   	font-size: 22px;
+   	text-align: center;
+   }
+
+
+.aboutmb{
+	padding-top: 60px;
+}
+.aboutmb ul{
+	  width: 1000px;
+   	   margin: auto;
+       overflow: hidden;
+}
+
+.aboutmb li{
+	
+	float: left;
+	margin: 0 60px;
+/*	text-align: center;*/
+}
+
+
+.mbname{
+	padding-top: 20px;
+}
+
+.mbname ul{
+	   width: 1000px;
+   	   margin: auto;
+       overflow: hidden;
+}
+.mbname li{
+	color: #000;
+	font-size: 16px;
+	float: left;
+	margin: 0 75px;
+	
+}
+
+.pleasure{
+	padding-top: 100px;
+	padding-bottom: 80px;
+	display: block;
+	text-align: center;
+	font-size: 20px;
+}
+/*member结束*/
+
+/*photo开始*/
+    .photo{
+    	background: #666666;
+    }
+    
+    .pic{
+    	text-align: center;
+    }
+    .pic img{
+    	  padding-top: 80px;
+    	  width: 900px;
+    	  height: 400px;
+    	  padding-bottom: 80px;
+    }
+/*photo结束*/
+
+
+/*foot开始*/
+  .foot{
+  	padding-top: 20px;
+  	padding-bottom: 20px;
+  	background: #000000;
+  	display: block;
+  	text-align: center;
+  	font-size: 20px;
+  }
+/*foot结束*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
